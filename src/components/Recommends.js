@@ -23,7 +23,6 @@ const Recommends = (props) => {
     </Container>
   )
 }
-// container component
 const Container = styled.div`
   padding: 0 0 26px;
 `
